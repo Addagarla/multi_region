@@ -1,0 +1,101 @@
+.dischare-planner {
+  width: 200px;
+  height: 20px;
+  margin: 15px 0 0 25px;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.dischare-planner .text-style-1 {
+  color: #0e7dff;
+}
+
+.lyvwise {
+  height: 10px;
+  flex-grow: 0;
+  font-size: 16px;
+  font-weight: 800;
+  color: #ee1414;
+}
+
+.topside {
+  margin-left: -80px;
+  height: 55px;
+}
+
+.menu {
+  width: 21.4px;
+  height: 15.4px;
+  flex-grow: 0;
+  margin: -40px -0 0 200px;
+  object-fit: contain;
+}
+
+.search {
+  width: 18.9px;
+  height: 18.9px;
+  flex-grow: 0;
+  margin: -40px 15.1px 9.1px 35.6px;
+  object-fit: contain;
+}
+
+.searchtext {
+  flex-grow: 0;
+  margin: -20px 0 0 35px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a3a3a3;
+}
+
+.settings {
+  width: 18.7px;
+  height: 19.2px;
+  flex-grow: 0;
+  margin: -40px 0 0 900px;
+  object-fit: contain;
+}
+
+.notifications {
+  width: 18.6px;
+  height: 22px;
+  flex-grow: 0;
+  margin: -40px 0 0 950px;
+  object-fit: contain;
+}
+
+.profile {
+  width: 32px;
+  height: 32px;
+  flex-grow: 0;
+  margin: -40px 0 0 1000px;
+  object-fit: contain;
+}
+
+.name {
+  width: 115px;
+  height: 21px;
+  flex-grow: 0;
+  margin: -35px 0 0 1050px;
+  // font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #414141;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

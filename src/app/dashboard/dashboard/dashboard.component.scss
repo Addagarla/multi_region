@@ -1,0 +1,524 @@
+.count-box {
+  width: 250px;
+  height: 114px;
+  flex-grow: 0;
+  margin: -835px 0 0 210px;
+  padding: 35px 25px 22px 27px;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.number {
+  width: 51px;
+  height: 30px;
+  flex-grow: 0;
+  margin: 6px 109px 7px 0;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.patients {
+  width: 140px;
+  height: 21px;
+  flex-grow: 0;
+  // margin: 7px 20px 0 0;
+  // font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #414141;
+}
+
+.tup {
+  width: 46px;
+  height: 56px;
+  flex-grow: 0;
+  margin: -40px 0 -6px 152px;
+  object-fit: contain;
+}
+
+.slot {
+  width: 250px;
+  height: 336px;
+  flex-grow: 0;
+  margin: -690px 31px 0 210px;
+  padding: 34px 30px 18px 21px;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.patientgraph {
+  width: 820px;
+  height: 336px;
+  flex-grow: 0;
+  margin: -690px 0 0 210px;
+  padding: 22px 70px 25px 23px;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.slottext {
+  width: 207px;
+  height: 24px;
+  flex-grow: 0;
+  margin: 11px 0 19px;
+  // font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #414141;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.line-17 {
+  width: 201px;
+  height: 1px;
+  flex-grow: 0;
+  margin: 19px 0 1px 6px;
+  background-color: #626060;
+}
+
+.bookimage {
+  width: 150px;
+  height: 150px;
+  flex-grow: 0;
+  margin: 1px 26px 11px 31px;
+  object-fit: contain;
+}
+
+.book-a-slot {
+  width: 89px;
+  height: 24px;
+  flex-grow: 0;
+  margin: -12px 0 0px 40px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.line-18 {
+  width: 25px;
+  height: 1px;
+  flex-grow: 0;
+  margin: -4px 0 0 15px;
+  transform: rotate(-270deg);
+  background-color: #ff3030;
+}
+
+.bag {
+  width: 18px;
+  height: 18px;
+  flex-grow: 0;
+  // margin: 7px 10px 4px 0;
+  object-fit: contain;
+}
+
+.rectangle-52 {
+  width: 165px;
+  height: 37px;
+  flex-grow: 0;
+  margin: 11px 12px 0 30px;
+  padding: 3px 21px 5px 14px;
+  border-radius: 4px;
+  background-color: #ee1414;
+}
+
+.chart {
+  width: 741px;
+  height: 212px;
+  flex-grow: 0;
+  margin: 53px 0 0;
+  object-fit: contain;
+}
+
+.outpatientstext {
+  width: 203px;
+  height: 24px;
+  flex-grow: 0;
+  margin: 0 246px 53px 4px;
+  // font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.ellipse-19 {
+  width: 8px;
+  height: 8px;
+  flex-grow: 0;
+  margin: -15px 5px 3px 400px;
+  background-color: #85fc66;
+}
+
+.inpatients1 {
+  width: 50px;
+  height: 15px;
+  flex-grow: 0;
+  margin: 0 0 0 15px;
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.ellipse-20 {
+  width: 8px;
+  height: 8px;
+  flex-grow: 0;
+  margin: -10px 5px 3px 490px;
+  background-color: #7c9cc0;
+}
+
+.outpatients1 {
+  width: 59px;
+  height: 15px;
+  flex-grow: 0;
+  margin: 0 0 0 15px;
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.last-6-months {
+  width: 83px;
+  height: 18px;
+  flex-grow: 0;
+  margin: -12px 0 0px 600px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a3a3a3;
+}
+
+.rectangle-45 {
+  width: 546px;
+  height: 336px;
+  flex-grow: 0;
+  margin: -320px 29px 28px 210px;
+  padding: 16px 19.6px 40px 26px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.rectangle-46 {
+  width: 546px;
+  height: 336px;
+  flex-grow: 0;
+  margin: 0px 29px 52px 210px;
+  padding: 26px 109px 79px 26px;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.zoom {
+  width: 27px;
+  height: 27px;
+  flex-grow: 0;
+  margin: -57px 0 0px 430px;
+  object-fit: contain;
+}
+
+.caredestinations {
+  width: 229px;
+  height: 24px;
+  flex-grow: 0;
+  margin: 6px 5px 31px 3px;
+  // font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.outpatients {
+  width: 85px;
+  height: 21px;
+  flex-grow: 0;
+  margin: -50px 36.4px 28px 338px;
+  // font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.inpatients {
+  width: 73px;
+  height: 21px;
+  flex-grow: 0;
+  margin: -50px 40px 28px 225px;
+  // font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.destination-name {
+  width: 129px;
+  height: 21px;
+  flex-grow: 0;
+  margin: 31px 105px 28px 3px;
+  // font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.list {
+  width: 169px;
+  height: 170px;
+  flex-grow: 0;
+  margin: 0 0 0 4px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.numbers1 {
+  width: 31px;
+  height: 170px;
+  flex-grow: 0;
+  margin: -170px 0 0 224px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.numbers2 {
+  width: 26px;
+  height: 170px;
+  flex-grow: 0;
+  margin: -170px 0 0 340px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+}
+
+.circlechart {
+  width: 146px;
+  height: 146px;
+  flex-grow: 0;
+  margin: 55px 75px 6px 44px;
+  object-fit: contain;
+}
+
+.circlenum {
+  width: 146px;
+  height: 152px;
+  flex-grow: 0;
+  margin: -152px 0 0 280px;
+  object-fit: contain;
+}
+
+.avg {
+  width: 459px;
+  height: 219px;
+  flex-grow: 0;
+  margin: 31px 14.4px 0 0;
+  object-fit: contain;
+}
+
+.profiles {
+  width: 37px;
+  height: 37px;
+  flex-grow: 0;
+  margin: 0 12px 12px 0;
+  object-fit: contain;
+}
+.profilename {
+  width: 38px;
+  height: 12px;
+  flex-grow: 0;
+  margin: -32px 9px 0 50px;
+  // font-family: Poppins;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ee1414;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.date {
+  width: 37px;
+  height: 12px;
+  flex-grow: 0;
+  margin: -8px 0 0px 115px;
+  font-family: Poppins;
+  font-size: 8px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #afafaf;
+}
+
+.message {
+  width: 381px;
+  height: 18px;
+  flex-grow: 0;
+  margin: 0 0 0 50px;
+  // font-family: Poppins;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #626060;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rectangle-58 {
+  width: 1353px;
+  height: 56px;
+  flex-grow: 0;
+  margin: 0px -230px 0px 200px;
+  padding: 17px 23px 18px 56px;
+  background-color: #ee1414;
+}
+
+.copyright {
+  width: 322px;
+  height: 21px;
+  flex-grow: 0;
+  margin: 0 483px 0 0;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.conditions {
+  width: 139px;
+  height: 21px;
+  flex-grow: 0;
+  margin: -20px 49px 0 650px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.privacypolicy {
+  width: 98px;
+  height: 21px;
+  flex-grow: 0;
+  margin:-22px 0 0 830px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}

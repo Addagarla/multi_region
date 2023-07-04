@@ -1,0 +1,208 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.side-menu {
+  width: 300px;
+  height: 100px;
+  flex-grow: 0;
+  margin: 2px 0 0 -120px;
+  padding: 47.3px 32px 814.7px 48px;
+  background-color: #f8f9fa;
+
+  img.-icon-pie-chart {
+    width: 25px;
+    height: 26.9px;
+    flex-grow: 0;
+    //   margin: 0 18px 36.5px 0;
+    object-fit: contain;
+  }
+  .dashboard {
+    width: 90px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 0 53px 38.7px 18px;
+    // font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ee1414;
+  }
+  .users-row {
+    margin: 36.5px 15px 0 0;
+  }
+  img.-icon-users {
+    width: 25px;
+    height: 26.9px;
+    flex-grow: 0;
+    // margin: 36.5px 15px 0 0;
+    object-fit: contain;
+  }
+  .users {
+    width: 44px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 38.7px 0 38.7px 18px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+  }
+  .inbox-row {
+    margin: 38.7px 20.8px 43px 0;
+  }
+  img.-icon-inbox {
+    width: 23.2px;
+    height: 23.6px;
+    flex-grow: 0;
+    // margin: 38.7px 20.8px 43px 0;
+    object-fit: contain;
+  }
+  .inbox {
+    width: 43px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 38.7px 0 38.7px 21px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+  }
+  .review-row {
+    margin: 0px -20.3px 0 0;
+  }
+  img.-icon-code-review {
+    width: 26.3px;
+    height: 26.9px;
+    flex-grow: 0;
+    // margin: 43px 17.7px 32.2px 0;
+    object-fit: contain;
+  }
+  .reviews {
+    width: 64px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 38.7px 0 38.7px 18px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+  }
+  .notification-row {
+    margin: 32.2px 15px 36.5px -1px;
+  }
+  img.-icon-notification-2-line {
+    width: 29px;
+    height: 31.1px;
+    flex-grow: 0;
+    // margin: 32.2px 15px 36.5px 0;
+    object-fit: contain;
+  }
+  .notifications {
+    width: 100px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 38.7px 0 38.7px 16px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+  }
+  .map-row {
+    margin: 0 0 0 3px;
+  }
+  img.-icon-map {
+    width: 20px;
+    height: 26.9px;
+    flex-grow: 0;
+    // margin: 36.5px 19px 36.5px 5px;
+    object-fit: contain;
+  }
+
+  .book-slot {
+    width: 73px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 38.7px 0 38.7px 22px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+  }
+  .building-row {
+    margin: 36.5px 0 38.7px -1px;
+  }
+  img.-icon-building-house {
+    width: 23.8px;
+    height: 26.9px;
+    flex-grow: 0;
+    // margin: 36.5px 15.3px 38.7px 5px;
+    object-fit: contain;
+  }
+  .care-destinations {
+    width: 143px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 0 0 0 20px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  img.-icon-logout {
+    width: 25px;
+    height: 26.9px;
+    flex-grow: 0;
+    // margin: 39.7px 14px 0 5px;
+    object-fit: contain;
+  }
+  .logout {
+    width: 55px;
+    height: 25.8px;
+    flex-grow: 0;
+    margin: 38.7px 0 2.1px 18px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+  }
+}
